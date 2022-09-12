@@ -4,7 +4,7 @@ Submitted by: Alem Matiwos F
 
 Wordle is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: 15+ hours spent in total
+Time spent: 10+ hours spent in total
 
 ## Required Features
 
@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src = 'https://user-images.githubusercontent.com/91217813/189734178-c57efb9b-0468-4829-9d74-e49a7c3b28a0.gif' width='450' height='650' />
+<img src = 'https://user-images.githubusercontent.com/91217813/189734178-c57efb9b-0468-4829-9d74-e49a7c3b28a0.gif' width='350' height='600' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
