@@ -1,10 +1,6 @@
 # Android Project 1 - Wordle
 
-Submitted by: Alem Matiwos F
-
 Wordle is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
-
-Time spent: 10+ hours spent in total
 
 ## Required Features
 
